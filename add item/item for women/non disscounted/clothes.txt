@@ -1,0 +1,6 @@
+391 shirt01 660
+392 shirt02 670
+393 shirt03 680
+394 shirt04 690
+395 shirt05 700
+396 shirt06 710

@@ -1,0 +1,8 @@
+string num = "12";
+int n = stoi(num);
+cout<<n*2<<endl;
+
+
+
+ remove(("D:\\programe\\New folder\\dmassignment1\\cart\\cart"+Mobile+".txt").c_str());
+    rename("D:/programe/New folder/dmassignment1/cart/temp.txt",("D:/programe/New folder/dmassignment1/cart/cart"+Mobile+".txt").c_str());

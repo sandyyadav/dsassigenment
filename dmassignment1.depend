@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1621700865 source:d:\programe\new folder\dmassignment1\shoping.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<string>
+	<stdio.h>
+	<cstdio>
+
